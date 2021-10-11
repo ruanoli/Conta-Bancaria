@@ -1,5 +1,4 @@
-## Conta-Bancaria
-Repositório criado junto à mentoria da Decola Tech, com instruções da excepcional Carla Frascareli.
+## Conta Bancária
 
 ### Objetivos:
 Pratica dos pilares do Paradigma de Orientação ao a Objetos.
